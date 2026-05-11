@@ -1,0 +1,51 @@
+[
+  {
+    "day": "Sunday",
+    "date": "Sunday, 07 June 2026",
+    "what": "Most speakers arrive and check in to Scandic Hotel Kuopio. ",
+    "morning_afternoon": "",
+    "evening": ""
+  },
+  {
+    "day": "Monday",
+    "date": "Monday, 08 June 2026",
+    "what": "Course/conference day 1",
+    "morning_afternoon": "Foundations to retina cultures",
+    "evening": "Writing and publishing high-impact"
+  },
+  {
+    "day": "Tuesday",
+    "date": "Tuesday, 09 June 2026",
+    "what": "Day 2",
+    "morning_afternoon": "Disease models and drug testing",
+    "evening": "Writing winning grant applications"
+  },
+  {
+    "day": "Wednesday",
+    "date": "Wednesday, 10 June 2026",
+    "what": "Day 3. Main networking event in the evening.",
+    "morning_afternoon": "ATMPs and drug delivery aspects",
+    "evening": "Industry and entrepreneurship in retina research"
+  },
+  {
+    "day": "Thursday",
+    "date": "Thursday, 11 June 2026",
+    "what": "Day 4",
+    "morning_afternoon": "Basic and advanced phenotyping assays",
+    "evening": "Towards professorships - how to succeed in academia."
+  },
+  {
+    "day": "Friday",
+    "date": "Friday, 12 June 2026",
+    "what": "Day 5, last day. Most speakers depart.",
+    "morning_afternoon": "Visual neuroscience assays",
+    "evening": "Wrap up and feedback of the course"
+  },
+  {
+    "day": "Saturday",
+    "date": "Saturday, 13 June 2026",
+    "what": "Last speakers depart.",
+    "morning_afternoon": "",
+    "evening": ""
+  }
+]
