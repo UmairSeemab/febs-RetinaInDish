@@ -432,12 +432,20 @@
     "role": "Participant"
   },
   {
+    "id": "P056",
+    "name": "Speakers",
+    "first_name": "",
+    "last_name": "Speakers",
+    "country": "",
+    "role": "Participant"
+  },
+  {
     "id": "P057",
     "name": "Petri Ala-Laurila",
     "first_name": "Petri",
     "last_name": "Ala-Laurila",
     "country": "Finland",
-    "role": "Speaker"
+    "role": "Participant"
   },
   {
     "id": "P058",
@@ -445,7 +453,7 @@
     "first_name": "Ana",
     "last_name": "Almansa García",
     "country": "Germany",
-    "role": "Speaker"
+    "role": "Participant"
   },
   {
     "id": "P059",
@@ -453,7 +461,7 @@
     "first_name": "Blanca",
     "last_name": "Arango-Gonzalez",
     "country": "Germany",
-    "role": "Speaker"
+    "role": "Participant"
   },
   {
     "id": "P060",
@@ -461,7 +469,7 @@
     "first_name": "Marco",
     "last_name": "Bassetto",
     "country": "USA",
-    "role": "Speaker"
+    "role": "Participant"
   },
   {
     "id": "P061",
@@ -469,7 +477,7 @@
     "first_name": "Antolin",
     "last_name": "Canto",
     "country": "Spain",
-    "role": "Speaker"
+    "role": "Participant"
   },
   {
     "id": "P062",
@@ -477,7 +485,7 @@
     "first_name": "Yuanyuan",
     "last_name": "Chen",
     "country": "USA",
-    "role": "Speaker"
+    "role": "Participant"
   },
   {
     "id": "P063",
@@ -485,7 +493,7 @@
     "first_name": "Valérie",
     "last_name": "Fradot",
     "country": "France",
-    "role": "Speaker"
+    "role": "Participant"
   },
   {
     "id": "P064",
@@ -493,7 +501,7 @@
     "first_name": "Catherine",
     "last_name": "Hottin",
     "country": "Germany",
-    "role": "Speaker"
+    "role": "Participant"
   },
   {
     "id": "P065",
@@ -501,7 +509,7 @@
     "first_name": "Giedrius",
     "last_name": "Kalesnykas",
     "country": "Finland",
-    "role": "Speaker"
+    "role": "Participant"
   },
   {
     "id": "P066",
@@ -509,7 +517,7 @@
     "first_name": "Alexa",
     "last_name": "Klettner",
     "country": "Germany",
-    "role": "Speaker"
+    "role": "Participant"
   },
   {
     "id": "P067",
@@ -517,7 +525,7 @@
     "first_name": "Henri",
     "last_name": "Leinonen",
     "country": "Finland",
-    "role": "Speaker & Course Organizer"
+    "role": "Course Organizer"
   },
   {
     "id": "P068",
@@ -525,7 +533,7 @@
     "first_name": "María",
     "last_name": "Miranda",
     "country": "Spain",
-    "role": "Speaker"
+    "role": "Participant"
   },
   {
     "id": "P069",
@@ -533,7 +541,7 @@
     "first_name": "Grazyna",
     "last_name": "Palczewska",
     "country": "USA",
-    "role": "Speaker"
+    "role": "Participant"
   },
   {
     "id": "P070",
@@ -541,7 +549,7 @@
     "first_name": "Krzysztof",
     "last_name": "Palczewski",
     "country": "USA",
-    "role": "Speaker"
+    "role": "Participant"
   },
   {
     "id": "P071",
@@ -549,7 +557,7 @@
     "first_name": "François",
     "last_name": "Paquet-Durand",
     "country": "Germany",
-    "role": "Speaker"
+    "role": "Participant"
   },
   {
     "id": "P072",
@@ -557,7 +565,7 @@
     "first_name": "Xandra",
     "last_name": "Pereiro",
     "country": "Spain",
-    "role": "Speaker"
+    "role": "Participant"
   },
   {
     "id": "P073",
@@ -565,7 +573,7 @@
     "first_name": "Jukka",
     "last_name": "Puoliväli",
     "country": "Finland",
-    "role": "Speaker"
+    "role": "Participant"
   },
   {
     "id": "P074",
@@ -573,7 +581,7 @@
     "first_name": "Raunak",
     "last_name": "Sinha",
     "country": "USA",
-    "role": "Speaker"
+    "role": "Participant"
   },
   {
     "id": "P075",
@@ -581,7 +589,7 @@
     "first_name": "Teemu",
     "last_name": "Turunen",
     "country": "Finland",
-    "role": "Speaker"
+    "role": "Participant"
   },
   {
     "id": "P076",
@@ -589,7 +597,7 @@
     "first_name": "Marius",
     "last_name": "Ueffing",
     "country": "Germany",
-    "role": "Speaker"
+    "role": "Participant"
   },
   {
     "id": "P077",
@@ -597,7 +605,7 @@
     "first_name": "Arto",
     "last_name": "Urtti",
     "country": "Finland",
-    "role": "Speaker"
+    "role": "Participant"
   },
   {
     "id": "P078",
@@ -605,7 +613,7 @@
     "first_name": "Frans",
     "last_name": "Vinberg",
     "country": "USA",
-    "role": "Speaker"
+    "role": "Participant"
   },
   {
     "id": "P081",
